@@ -1,3 +1,4 @@
+![RESEÑAS](https://github.com/user-attachments/assets/5a2d03df-090d-48c4-ba7f-d83c84eb6bb0)
 ### 1)
 Escoge una misión. Cada misión puede ser jugada con 4 personajes, con instrucciones adicionales para otros 5-6 personajes, que pueden ser jugados desde 1-6 jugadores. Una misión puede ser jugada con menos personajes/jugadores, pero la dificultad será más difícil.
 
