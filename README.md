@@ -60,8 +60,4 @@ Un juego de ZOMBICIDE se juega a lo largo de una serie de rondas de juego, que s
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
-**Table of Contents**
-
-[TOCM]
-
 # TERMINA LA PARTE DE IZAN.
