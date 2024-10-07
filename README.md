@@ -82,19 +82,13 @@ El juego se gana inmediatamente cuando se han completado todos los objetivos de 
 ### Rondas del juego:
 Un juego de ZOMBICIDE se juega a lo largo de una serie de rondas de juego, que se desarrollan de la siguiente manera:
 
+![RONDA JUGADOR](https://github.com/user-attachments/assets/c4d15a20-9120-4169-b76e-efa1802e8895)
 - **Ronda de jugadores**: Esta es la fase en la que los jugadores realizarán diversas acciones, como moverse por el tablero de juego, realizar ataques y rescatar a los transeúntes.
 
-
-![RONDA JUGADOR](https://github.com/user-attachments/assets/c4d15a20-9120-4169-b76e-efa1802e8895)
-
+![RONDA ENEMIGO](https://github.com/user-attachments/assets/acd2faaa-c93c-4e59-91a2-f257625ef09b)
 - **Ronda del enemigo**: Una vez que todos los personajes se han activado, la fase de jugador termina y comienza la fase de enemigo. Durante esta fase, los enemigos que estén en el tablero intentan eliminar a los jugadores y aparecen nuevos enemigos.
 
-
-![RONDA ENEMIGO](https://github.com/user-attachments/assets/acd2faaa-c93c-4e59-91a2-f257625ef09b)
-
-- **Ronda final**: Cada misión, y algunas habilidades, pueden enumerar ciertos efectos que ocurren durante la fase final. De lo contrario, una vez que se ha completado la fase final, comienza una nueva ronda de juego.
-
-
 ![END PHASE](https://github.com/user-attachments/assets/3fc78cfc-2257-4b57-9542-c6aa1d795f5b)
+- **Ronda final**: Cada misión, y algunas habilidades, pueden enumerar ciertos efectos que ocurren durante la fase final. De lo contrario, una vez que se ha completado la fase final, comienza una nueva ronda de juego.
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
