@@ -50,6 +50,7 @@ Toma y separa las siguientes cartas, identificadas por sus dorsos únicos. Baraj
 ![EQUIPMENT DECK](https://github.com/user-attachments/assets/63929d46-a891-4db4-9939-c59f737ba277)
 
 - **F)**  **Tarjetas de referencia de objetos interactivos*: *Estas tarjetas son un recordatorio de las reglas para cada punto interactivo.*
+
 ![INTERACTIVE OBJECT REFERENCE CARD](https://github.com/user-attachments/assets/1b2f7774-2c5f-4801-a4fa-f9a5aa0e7801)
 
   - Reglas del tablero:
@@ -72,8 +73,8 @@ Coloca las miniaturas que representan a los personajes elegidos en la zona de in
 ### 11)
 Luego, cada jugador toma 1 ficha de activación, colocándola con su lado verde (no activado) boca arriba junto a su tablero.
 
-![RESEÑAS](https://github.com/user-attachments/assets/93b57457-a3de-4a17-ab8d-f738415eef92)
 
+![RESEÑAS](https://github.com/user-attachments/assets/93b57457-a3de-4a17-ab8d-f738415eef92)
 
 ## Reseñas del juego: 
 ### Ganar o perder:
