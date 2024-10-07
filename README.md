@@ -76,6 +76,7 @@ Luego, cada jugador toma 1 ficha de activación, colocándola con su lado verde 
 
 ![RESEÑAS](https://github.com/user-attachments/assets/93b57457-a3de-4a17-ab8d-f738415eef92)
 
+
 ## Reseñas del juego: 
 ### Ganar o perder:
 El juego se gana inmediatamente cuando se han completado todos los objetivos de la misión. El juego se pierde cuando todos los personajes han sido eliminados, o cuando se cumple una condición de pérdida específica de la misión. Este es un juego cooperativo, por lo que todos los jugadores ganan/pierden juntos.
